@@ -1,1 +1,1 @@
-# about 85 self written projects to describe complete spring functionality.
+# about 85 small projects to explain complete spring MVC, Security functionality.
